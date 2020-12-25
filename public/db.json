@@ -11,11 +11,11 @@
     },
     {
       "_id": "5fe4aae3f65cd633b6e55945",
-      "text": "Do Lorem ex incididunt quis. Velit sit ipsum sit duis laborum. Consequat dolore incididunt occaecat veniam voluptate ipsum ea. Eiusmod sint veniam adipisicing deserunt enim ut esse fugiat. Dolor enim nisi non laborum nisi enim irure.",
+      "text": "Barcelona are now trailing league leaders Atlético by eight points, and Atléti even have a game in hand... What went wrong at an empty Camp Nou against Valencia?",
       "user": {
-        "fullname": "Paulette Cook",
-        "username": "jerri",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+        "fullname": "Between The Posts",
+        "username": "BetweenThePosts",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1058468527772983301/xTP2mndN_bigger.jpg"
       }
     },
     {
@@ -90,5 +90,37 @@
         "avatarUrl": "https://source.unsplash.com/random/100x100?2"
       }
     }
-  ]
+  ],
+
+  "tags": [
+    { "_id": "5fe4aae3f65cd633b6e55945", "name": "#Коронавирус", "count": 112763 },
+    { "_id": "5fe4aae3af133bfc04727ec6", "name": "Навальный", "count": 24915 },
+    { "_id": "5fe4aae3295871ad5ec68e61", "name": "Беларусь", "count": 17252 },
+    { "_id": "5fe4aae35497h168793e493d", "name": "#HandOfRussianHistory", "count": 8396 }
+  ],
+
+  "users": [
+    {
+      "fullname": "Robertson Mckinney",
+      "username": "neva",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+    },
+    {
+      "fullname": "Joseph Boyer",
+      "username": "mccarty",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+    },
+    {
+      "fullname": "Curry Mcfarland",
+      "username": "alison",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+    }
+  ],
+
+  "user": {
+    "_id": "5fe4aae35497f168793e393f",
+    "fullname": "Larin David",
+    "username": "dav1ee",
+    "avatarUrl": "https://lh3.googleusercontent.com/ogw/ADGmqu_raPFqB_H7xgSh5Iw9YcvafWf8xmuHUQJGratA6g=s83-c-mo"
+  }
 }

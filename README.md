@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `npm run json-server`
 
-Runs the JSON server.
+Runs the JSON server.\
 Open [http://localhost:3001](http://localhost:3001)/list name to view it in the browser.
 
 ## Learn More

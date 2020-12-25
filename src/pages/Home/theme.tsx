@@ -73,12 +73,19 @@ export const useStylesHome = makeStyles((theme: Theme) => ({
     borderBottom: 0,
   },
 
+  tweetWrapper: {
+    color: 'inherit',
+    textDecoration: 'none',
+  },
+
   tweetsCenterLoading: {
     marginTop: 50,
     textAlign: 'center',
   },
 
   tweetsHeader: {
+    display: 'flex',
+    alignItems: 'center',
     borderRadius: 0,
     borderTop: 0,
     borderLeft: 0,
@@ -92,9 +99,11 @@ export const useStylesHome = makeStyles((theme: Theme) => ({
 
   tweet: {
     display: 'flex',
+    alignItems: 'flex-start',
     cursor: 'pointer',
     paddingTop: 15,
     paddingLeft: 20,
+    transition: 'background 0.15s ease-in-out',
 
     '&:hover': {
       backgroundColor: 'rgb(245, 248, 250)',
@@ -150,6 +159,7 @@ export const useStylesHome = makeStyles((theme: Theme) => ({
 
   rightSideBlockItem: {
     cursor: 'pointer',
+    transition: 'background 0.15s ease-in-out',
 
     '& .MuiTypography-body1': {
       fontWeight: 700,
@@ -161,6 +171,11 @@ export const useStylesHome = makeStyles((theme: Theme) => ({
 
     '& .MuiListItemText-root': {
       margin: 0,
+    },
+
+    '& a': {
+      color: 'inherit',
+      textDecoration: 'none',
     },
 
     '&:hover': {
