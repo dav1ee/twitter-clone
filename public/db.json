@@ -1,104 +1,38 @@
 {
   "tweets": [
     {
-      "_id": "5fe4aae389723fb68627cb38",
-      "text": "Aliqua dolor nisi dolore sunt exercitation culpa incididunt magna reprehenderit. Minim eu officia deserunt dolore eiusmod irure amet sint cupidatat sit minim. Dolor anim reprehenderit velit sint labore anim eu aute dolor aute sunt cillum non do. Quis aliquip anim reprehenderit aute mollit. Aliqua aliquip non ipsum labore ipsum eu nulla magna velit qui mollit magna ea officia.",
+      "_id": "5fe4aae3c0fadc5f5dc520a1",
+      "text": "Test Tweet",
       "user": {
-        "fullname": "Thompson Wooten",
-        "username": "mcclain",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?2"
-      }
-    },
+        "fullname": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+      },
+      "id": 1
+    }
+  ],
+  "tags": [
     {
       "_id": "5fe4aae3f65cd633b6e55945",
-      "text": "Barcelona are now trailing league leaders Atlético by eight points, and Atléti even have a game in hand... What went wrong at an empty Camp Nou against Valencia?",
-      "user": {
-        "fullname": "Between The Posts",
-        "username": "BetweenThePosts",
-        "avatarUrl": "https://pbs.twimg.com/profile_images/1058468527772983301/xTP2mndN_bigger.jpg"
-      }
-    },
-    {
-      "_id": "5fe4aae314b5b5d91832ad8c",
-      "text": "Velit do nostrud do proident pariatur excepteur sunt incididunt duis non proident eu in reprehenderit. Veniam ut laboris non et eu. Amet consequat ad ea labore consectetur et voluptate id elit dolore sunt eu esse. Laboris deserunt veniam in culpa enim enim do. Reprehenderit nulla duis consectetur sint ea.",
-      "user": {
-        "fullname": "Angelina Combs",
-        "username": "thomas",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?1"
-      }
-    },
-    {
-      "_id": "5fe4aae3d2d5fa3eb8b73431",
-      "text": "Nulla mollit eu pariatur qui proident incididunt. Eiusmod pariatur labore cillum fugiat veniam. Reprehenderit ea laboris aliquip do in adipisicing esse dolore esse. Pariatur laborum esse cupidatat nostrud qui. In aute esse qui laborum labore ad aliqua anim et.",
-      "user": {
-        "fullname": "Joseph Boyer",
-        "username": "mccarty",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
-      }
-    },
-    {
-      "_id": "5fe4aae35497f168793e393f",
-      "text": "Deserunt est culpa in nisi laboris ipsum labore excepteur ea labore commodo deserunt voluptate sunt. Deserunt minim enim ea eu nulla laboris nisi reprehenderit deserunt in et. Aliqua nulla amet proident est. Aute amet eu fugiat do nulla irure exercitation. Culpa fugiat officia esse voluptate sint nostrud mollit sint qui eiusmod consequat sit deserunt ut.",
-      "user": {
-        "fullname": "Cantrell Flynn",
-        "username": "christine",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
-      }
-    },
-    {
-      "_id": "5fe4aae3234ecd55494eb301",
-      "text": "Non id do elit Lorem sint dolore reprehenderit. Cillum ad occaecat culpa voluptate. Exercitation dolore mollit cillum minim irure esse enim fugiat ipsum. Proident anim sunt ut ullamco ad aliqua elit quis. Et esse adipisicing dolore officia proident aliquip.",
-      "user": {
-        "fullname": "Robertson Mckinney",
-        "username": "neva",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?1"
-      }
-    },
-    {
-      "_id": "5fe4aae3c0fadc5f5dc520a1",
-      "text": "Mollit eiusmod tempor irure cillum dolor exercitation elit ipsum non sint. Cupidatat nostrud sunt duis in sunt velit officia minim dolor irure. Irure laborum laborum fugiat dolore incididunt cillum. Fugiat Lorem mollit mollit esse deserunt duis qui minim sint commodo in cillum deserunt fugiat. Deserunt deserunt amet in cillum anim ut irure sunt commodo Lorem ullamco.",
-      "user": {
-        "fullname": "Joni Sutton",
-        "username": "janna",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?1"
-      }
-    },
-    {
-      "_id": "5fe4aae3295871ad5ec68e61",
-      "text": "Est in mollit dolore culpa enim voluptate ea proident sint et aliqua consectetur ea. Et anim est et voluptate aute irure incididunt officia sunt. Minim excepteur sit sint adipisicing adipisicing magna amet elit. Commodo occaecat ut aliqua nostrud in voluptate excepteur mollit ex aliquip. Aliquip id consectetur proident incididunt occaecat ut adipisicing fugiat culpa.",
-      "user": {
-        "fullname": "Verna Moss",
-        "username": "mcintyre",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?4"
-      }
+      "name": "#Коронавирус",
+      "count": 112763
     },
     {
       "_id": "5fe4aae3af133bfc04727ec6",
-      "text": "Ea laboris reprehenderit reprehenderit minim adipisicing ipsum sit duis ex non. Aliqua nisi minim ea fugiat do proident laboris et. Pariatur et commodo voluptate anim eiusmod aliqua quis minim excepteur deserunt id sit. Fugiat do qui exercitation cupidatat. Irure nulla voluptate adipisicing dolor enim consectetur cupidatat ut adipisicing qui sit minim est adipisicing.",
-      "user": {
-        "fullname": "Lawson Stafford",
-        "username": "blanche",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?2"
-      }
+      "name": "Навальный",
+      "count": 24915
     },
     {
-      "_id": "5fe4aae3d0f0648ead8ec00b",
-      "text": "Incididunt adipisicing sunt nostrud voluptate et est deserunt. Sunt eu ipsum laboris culpa incididunt laboris irure ex aliqua anim culpa tempor tempor. Aliquip minim elit id magna. Non tempor dolor do commodo irure duis irure dolor veniam quis do incididunt commodo Lorem. Cupidatat non sit esse tempor consequat et laboris cillum anim anim.",
-      "user": {
-        "fullname": "Curry Mcfarland",
-        "username": "alison",
-        "avatarUrl": "https://source.unsplash.com/random/100x100?2"
-      }
+      "_id": "5fe4aae3295871ad5ec68e61",
+      "name": "Беларусь",
+      "count": 17252
+    },
+    {
+      "_id": "5fe4aae35497h168793e493d",
+      "name": "#HandOfRussianHistory",
+      "count": 8396
     }
   ],
-
-  "tags": [
-    { "_id": "5fe4aae3f65cd633b6e55945", "name": "#Коронавирус", "count": 112763 },
-    { "_id": "5fe4aae3af133bfc04727ec6", "name": "Навальный", "count": 24915 },
-    { "_id": "5fe4aae3295871ad5ec68e61", "name": "Беларусь", "count": 17252 },
-    { "_id": "5fe4aae35497h168793e493d", "name": "#HandOfRussianHistory", "count": 8396 }
-  ],
-
   "users": [
     {
       "fullname": "Robertson Mckinney",
@@ -116,7 +50,6 @@
       "avatarUrl": "https://source.unsplash.com/random/100x100?2"
     }
   ],
-
   "user": {
     "_id": "5fe4aae35497f168793e393f",
     "fullname": "Larin David",
