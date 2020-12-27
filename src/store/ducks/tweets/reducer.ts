@@ -1,10 +1,12 @@
 import produce, { Draft } from 'immer';
 
-import { LoadingState, TweetsState } from './contracts/state';
-import { TweetsActions, TweetsActionType } from './actionCreators';
+import { AddFormState, LoadingState, TweetsState } from './contracts/state';
+import { TweetsActions } from './actionCreators';
+import { TweetsActionType } from './contracts/actionTypes';
 
 const initialTweetsState: TweetsState = {
   items: [],
+  addFormState: AddFormState.NEVER,
   loadingState: LoadingState.NEVER,
 };
 
@@ -24,8 +26,17 @@ export const tweetsReducer = produce((draft: Draft<TweetsState>, action: TweetsA
       draft.loadingState = action.payload;
       break;
 
+    case TweetsActionType.SET_ADD_FORM_STATE:
+      draft.addFormState = action.payload;
+      break;
+
+    case TweetsActionType.FETCH_ADD_TWEET:
+      draft.addFormState = AddFormState.LOADING;
+      break;
+
     case TweetsActionType.ADD_TWEET:
-      draft.items.push(action.payload);
+      draft.items.splice(0, 0, action.payload);
+      draft.addFormState = AddFormState.NEVER;
       break;
 
     default:
